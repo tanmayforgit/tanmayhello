@@ -12,6 +12,6 @@ void kedar()
 }
 void main()
 {
-	kedar();
+	kedar("This is tanmay typing on behalf of kedar (1:31)\n");
 }
 
