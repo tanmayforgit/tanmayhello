@@ -4,7 +4,11 @@ void prem()
 {
 printf("this is done by prem");
 printf("this is done by prem2");
+<<<<<<< HEAD
 printf("prem sagar");
+=======
+printf("Git the stupid content tracker - Tanmay 1:37\n");
+>>>>>>> df01a5141b4ceb14f2eb9c83a9e07c7ed46b4490
 }
 void kedar()
 {
